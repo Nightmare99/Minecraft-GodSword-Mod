@@ -1,0 +1,18 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "godsword:items/gods_word"
+	},
+	"display": {
+        "thirdperson_righthand": {
+	        "rotation": [ 0, 75, -35 ],
+	        "translation": [ 0.00, 1.00, -5.00 ],
+	        "scale": [ 1.50, 1.50, 1.50 ]
+	    },
+	    "thirdperson_lefthand": {
+	        "rotation": [ 0, 75, -35 ],
+	        "translation": [ 0.00, 1.00, -5.00 ],
+	        "scale": [ 1.50, 1.50, 1.50 ]
+	    }
+    }
+}

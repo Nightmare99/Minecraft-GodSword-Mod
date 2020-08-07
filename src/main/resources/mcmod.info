@@ -1,0 +1,16 @@
+[
+{
+  "modid": "godsword",
+  "name": "God's Word",
+  "description": "The ultimate weapon.",
+  "version": "1.0",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MaN1aQ"],
+  "credits": "The Forge and FML guys, for making FML, and MaN1aQ who made this mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
